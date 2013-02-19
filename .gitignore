@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+xcuserdata
+build/*
+.svn
+./CoreAnimationDemo.xcodeproj/project.xcworkspace/xcuserdata/DOLOisSOLO.xcuserdatad/UserInterfaceState.xcuserstate
+./CoreAnimationDemo.xcodeproj/project.xcworkspace/xcuserdata/adedayoologunde.xcuserdatad/UserInterfaceState.xcuserstate
